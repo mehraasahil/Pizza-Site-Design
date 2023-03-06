@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 [Live Demo](https://pizza-site-design.mehraasahil.repl.co/)
 
+![Screenshot (5)](https://user-images.githubusercontent.com/118424866/223214522-9050827d-d348-4ec7-af88-9085b26afc84.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
